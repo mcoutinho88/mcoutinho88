@@ -1,4 +1,6 @@
-### Hi there 👋  I'm Matheus Coutinho, a fullstack developer, mainly back-end nowadays. 
+### Hi there 👋  
+
+I'm Matheus Coutinho, a fullstack developer, mainly back-end nowadays. 
 
 🔭 I’m currently working on @lumahealthhq
 
@@ -15,8 +17,7 @@
   <img alt="Email - Matheus Coutinho" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a>
 
-
--->
+## :rocket: About me...
 
 ```javascript
 const thai = {
