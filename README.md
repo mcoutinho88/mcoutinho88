@@ -16,7 +16,7 @@ I'm Matheus Coutinho, a fullstack developer, mainly back-end nowadays.
 ## :rocket: About me...
 
 ```javascript
-const thai = {
+const myExperiences = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Redux, Node, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "domain driven design"],
